@@ -1,6 +1,6 @@
 # 👋 Hola, soy Arlex Buenrostro
 
-Soy un apasionado profesional con formación en **Finanzas** y **Desarrollo de Software**, actualmente cursando la **Maestría en Analítica e Inteligencia de Negocios**. Mi objetivo es aplicar la tecnología y el análisis empresarial para resolver problemas reales mediante soluciones basadas en datos.
+Soy un apasionado profesional con formación en **Finanzas** y **Desarrollo de Software**, actualmente cursando la **Maestría en Analítica e Inteligencia de Negocios** y habiendo cursado **Bootcamp de Ciencia de datos en TipleTen**. Mi objetivo es aplicar la tecnología y el análisis empresarial para resolver problemas reales mediante soluciones basadas en datos.
 
 ---
 
