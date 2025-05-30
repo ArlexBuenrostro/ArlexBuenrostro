@@ -43,7 +43,7 @@ Explora mis proyectos aquí en GitHub y descubre cómo combino mis conocimientos
 
 ## 📬 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arlex%20Buenrostro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arlex.buenrostro/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arlex%20Buenrostro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arlex-buenrostro/)
 
 ---
 
